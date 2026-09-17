@@ -4,6 +4,7 @@
 **I'm Gonçalo Aleixo**
 
  MSc Data Science and Artificial Intelligence Technology at [TU Delft](https://www.tudelft.nl/)
+ 
  Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
 
