@@ -3,7 +3,8 @@
 # Heyo 👋
 **I'm Gonçalo Aleixo**
 
-🎓 Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+ MSc Data Science and Artificial Intelligence Technology at [TU Delft](https://www.tudelft.nl/)
+ Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
 
 
 ## 🌐 Socials:
